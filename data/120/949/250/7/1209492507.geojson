@@ -48,7 +48,7 @@
         "wk:page":"Sacul%2C_El_Pet%C3%A9n"
     },
     "wof:country":"GT",
-    "wof:geomhash":"679055496c616d51a0bcde9d48d87001",
+    "wof:geomhash":"138091faed68b86fe024a126b0010f3d",
     "wof:hierarchy":[
         {
             "country_id":85632385,
@@ -71,5 +71,5 @@
     -89.29556,
     16.58527999999999
 ],
-  "geometry": {"coordinates":[-89.29555999999999,16.58527999999999],"type":"Point"}
+  "geometry": {"coordinates":[-89.29556,16.58528],"type":"Point"}
 }

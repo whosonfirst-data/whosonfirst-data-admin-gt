@@ -59,7 +59,7 @@
         "gn:id":3593642
     },
     "wof:country":"GT",
-    "wof:geomhash":"f3619095daea8becf76854888f2ffe9f",
+    "wof:geomhash":"252f749ff773927f92fc33a243dcd29c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -85,5 +85,5 @@
     -89.76666999999998,
     14.28333
 ],
-  "geometry": {"coordinates":[-89.76666999999998,14.28333],"type":"Point"}
+  "geometry": {"coordinates":[-89.76667,14.28333],"type":"Point"}
 }

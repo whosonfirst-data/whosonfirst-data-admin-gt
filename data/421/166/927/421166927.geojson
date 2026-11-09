@@ -98,7 +98,7 @@
     },
     "wof:country":"GT",
     "wof:created":1459008707,
-    "wof:geomhash":"32f43ea3d3568b04871324635f4c3a74",
+    "wof:geomhash":"b95e2dc63f2998ff15b55a004bea8a0b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -126,5 +126,5 @@
     -89.56667,
     15.0
 ],
-  "geometry": {"coordinates":[-89.56667,15.0],"type":"Point"}
+  "geometry": {"coordinates":[-89.56667,15],"type":"Point"}
 }

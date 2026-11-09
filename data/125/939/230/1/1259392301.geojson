@@ -80,7 +80,7 @@
         "wk:page":"Cancu%C3%A9n"
     },
     "wof:country":"GT",
-    "wof:geomhash":"c6c68376b702896814bf2c4a525e82fc",
+    "wof:geomhash":"3bc3990bf0110099b40d32feb91eb5a0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -106,5 +106,5 @@
     -89.93333,
     16.0
 ],
-  "geometry": {"coordinates":[-89.93333,16.0],"type":"Point"}
+  "geometry": {"coordinates":[-89.93333,16],"type":"Point"}
 }

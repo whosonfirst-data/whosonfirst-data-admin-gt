@@ -80,7 +80,7 @@
         "gn:id":11508231
     },
     "wof:country":"GT",
-    "wof:geomhash":"79de9c4b53e7761f8f036a37fa5fa0b3",
+    "wof:geomhash":"775d2cf02b0916929687c0ead4b1a7f8",
     "wof:hierarchy":[
         {
             "country_id":85632385,
@@ -103,5 +103,5 @@
     -90.05133000000002,
     16.16902
 ],
-  "geometry": {"coordinates":[-90.05133000000002,16.16902],"type":"Point"}
+  "geometry": {"coordinates":[-90.05133,16.16902],"type":"Point"}
 }
